@@ -1,1 +1,1 @@
-# UML_Education
+# UML Diagrams
