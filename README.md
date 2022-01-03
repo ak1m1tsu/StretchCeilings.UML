@@ -43,3 +43,19 @@
 ![](assets/diagramms/state_diagram.png)
 
 <hr>
+
+### 5. Диагрмма интерфесов
+
+
+
+![](assets/diagramms/interface_diagram.png)
+
+<hr>
+
+### 6. Диагрмма компонентов
+
+
+
+![](assets/diagramms/component_diagram.png)
+
+<hr>
