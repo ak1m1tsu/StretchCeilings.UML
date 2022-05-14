@@ -27,7 +27,7 @@
 - [Диаграмма компонентов](#components-diagram)  
 - [Диаграммы последовательностей](#sequence-diagram)  
 
-<h3 id='use-case-diagram'>1. Диаграмма прецедентов</h3>
+<h3 id='use-case-diagram'>Диаграмма прецедентов</h3>
 
 ---
 
@@ -37,7 +37,7 @@
 
 ![use_case_diagram](assets/use_case_diagram.jpg)
 
-<h3 id='class-diagram'>2. Диаграмма классов</h3>
+<h3 id='class-diagram'>Диаграмма классов</h3>
 
 ---
 
@@ -45,7 +45,7 @@
 
 ![class_diagram](assets/class_diagram.jpg)
 
-<h3 id='activity-diagram'> 3. Диаграмма действий</h3>
+<h3 id='activity-diagram'>Диаграмма действий</h3>
 
 ---
 
@@ -53,7 +53,7 @@
 
 ![activity_diagram](assets/activity_diagram.jpg)
 
-<h3 id='state-diagram'> 4. Диаграмма состояний</h3>
+<h3 id='state-diagram'>Диаграмма состояний</h3>
 
 ---
 
@@ -61,7 +61,7 @@
 
 ![state_diagram](assets/state_diagram.jpg)
 
-<h3 id='api-diagram'></h3> 5. Диагрмма интерфейсов API
+<h3 id='api-diagram'>Диагрмма интерфейсов API</h3>
 
 ---
 
@@ -72,7 +72,7 @@
 
 ![api](assets/api.jpg)
 
-<h3 id='components-diagram'></h3> 6. Схема endpoint'ов
+<h3 id='components-diagram'>Схема endpoint'ов</h3>
 
 ---
 
@@ -80,7 +80,7 @@
 
 ![component_diagram](assets/component_diagram.jpg)
 
-<h3 id='sequence-diagram'></h3> 7. Диаграммы последовательностей
+<h3 id='sequence-diagram'>Диаграммы последовательностей</h3>
 
 ---
 
